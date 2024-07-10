@@ -30,7 +30,7 @@ switch (true){
 	break;
 }
 
-/*segunda opção de resolução usando Function e If, else if, else.
+/*segunda opção de resolução usando Function e If, else if.
 let calculoRank = contagemRank (236, 154)
 let rankDoHeroi = ""
 
