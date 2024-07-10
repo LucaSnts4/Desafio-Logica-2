@@ -1,3 +1,5 @@
+Feito por: Lucas Santos.
+ 
  # 2️⃣ Calculadora de partidas Rankeadas
 
 **O Que deve ser utilizado**
